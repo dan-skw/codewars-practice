@@ -15,4 +15,4 @@ def longest_consec(strarr, k):
                 final_conc_string = conc_string
 
     return final_conc_string
-        
+
